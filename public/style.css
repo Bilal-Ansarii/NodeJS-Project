@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    background-color: #EDEDE9;
+}
+
+#book-list {
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2), -2px -2px 3px rgba(255, 255, 255, 0.5);
+}
+
+.btn-outline-secondary {
+    border-color: #e1a27d;
+    color: #e1a27d;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #e1a27d;
+    color: #FFFFFF;
+}
+
+#book-list {
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22) !important;
+}
+
+.btn-danger {
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+
+}
+
+.btn-primary {
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+#bookstore b span {
+    color: #E3D5CA;
+}
+
+#book-form,
+#update-form {
+    background-color: #f8f8f6;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+footer {
+    margin-top: 100px;
+    background-color: #EDEDE9;
+}

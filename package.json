@@ -1,0 +1,15 @@
+{
+  "name": "bookstore-app-package",
+  "version": "1.0.0",
+  "description": "CRUD APPLICATION",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MOHAMMAD BILAL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}
