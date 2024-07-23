@@ -2,7 +2,7 @@ const { MongoClient, ObjectId } = require("mongodb");
 
 let dbConnection;
 const uri =
-  "mongodb+srv://mohammadbilalcse:adev64uhdZlTL5zB@book-directory-clustor.mija9fe.mongodb.net/bookstore";
+  "mongodb+srv://<username>:<password>@<yourDatabaseName>/<collectionName>"; // Replace with your connection string
 
 module.exports = {
   connectToDb: (cb) => {
